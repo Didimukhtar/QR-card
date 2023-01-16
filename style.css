@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Roboto:wght@300&display=swap');
+
+body {
+    margin: auto;
+    padding: auto;
+}
+
+.container {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vw;
+    width: 100vw;
+    justify-content: center;
+    display: flex;
+}
+
+.container .content {
+    background-color: hsl(0, 0%, 100%);
+    justify-content: center;
+    height: 500px;
+    width: 330px;
+    margin-top: 120px;
+    border-radius: 20px;
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: Outfit;
+    font-size: 24px;
+    justify-content: center;
+    margin-left: 35px;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-family: Noto sans;
+    font-size: 14px;
+    justify-content: center;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}

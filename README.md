@@ -1,1 +1,1 @@
-# QR-card
+# This repository holds a front end development task done with **WOMEN TECHSTERS SOFTWARE DEVELOPMENT PROGRAM**
